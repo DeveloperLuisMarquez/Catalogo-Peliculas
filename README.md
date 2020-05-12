@@ -1,0 +1,2 @@
+# Catalogo-Peliculas
+Simulacion de catalogo de peliculas, que almacena su informacion en un archivo .txt que a su misma vez es almacenado en un carpeta previamente definida. Este proyecto lo creo para poner en preactica los temas de excepciones personalizadas, interfaces, herencia, polimorfismo, manejo de archivos en java, entrada y salida de datos, api collections, modificadores de acceso, sobre escritura de metodos, entre muchos otros de la POO.
